@@ -1,0 +1,24 @@
+.custom-card{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.bg-color{
+    background-color: #fff;
+    margin: 15px 0;
+}
+
+.prd-img{
+    height: 120px;
+}
+
+.prd-name{
+    font-size: 12px;
+    font-weight: 500;
+    padding: 0;
+    margin: 3px 0;
+}
